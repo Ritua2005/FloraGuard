@@ -1,17 +1,17 @@
-# 🌱 FloraGuard
+# FloraGuard
 
 An AI-powered virtual plant caretaker designed to help users monitor plant health and receive personalized care recommendations.
 
-## ✨ Features
+## Features
 
-- 🌿 Plant disease detection from leaf images
-- 💡 Personalized plant-care recommendations
-- 🔔 Care reminders and health alerts
-- 📈 Plant growth tracking
-- 🌍 Carbon-footprint monitoring
-- 📊 User-friendly dashboard
+- Plant disease detection from leaf images
+- Personalized plant-care recommendations
+- Care reminders and health alerts
+- Plant growth tracking
+- Carbon-footprint monitoring
+- User-friendly dashboard
 
-## 🛠️ Technologies Used
+## Technologies Used
 
 - React.js
 - JavaScript
@@ -23,13 +23,13 @@ An AI-powered virtual plant caretaker designed to help users monitor plant healt
 - Supabase
 - Git & GitHub
 
-## 📌 Project Overview
+## Project Overview
 
 FloraGuard combines artificial intelligence and computer vision to assist users in identifying plant diseases and providing suitable care guidance.
 
 The system allows users to upload plant images, receive disease predictions, track plant growth, and get reminders for regular plant care.
 
-## 🚀 Future Enhancements
+## Future Enhancements
 
 - IoT and sensor integration
 - Real-time camera-based detection
